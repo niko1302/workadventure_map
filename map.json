@@ -67,7 +67,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/LUK\/luk.json"
+                 "value":"..\/workadventure_map\/luk.json"
                 }],
          "type":"tilelayer",
          "visible":true,
