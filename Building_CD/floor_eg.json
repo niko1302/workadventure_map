@@ -21,6 +21,12 @@
          "id":16,
          "name":"start_floor_2",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":false,
          "width":60,
