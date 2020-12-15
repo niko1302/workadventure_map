@@ -49,7 +49,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/workadventure_map\/outside.json#start_cdbuilding"
+                 "value":"..\/workadventure_map\/map.json#start_cdbuilding"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -132,7 +132,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"tilesets_deviant_milkian_1.png",
+         "image":"tiles\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -902,7 +902,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"floortileset.png",
+         "image":"tiles\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -925,7 +925,7 @@
         {
          "columns":16,
          "firstgid":321,
-         "image":"tilesets_deviant_milkian_3.png",
+         "image":"tiles\/tilesets_deviant_milkian_3.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -975,7 +975,7 @@
         {
          "columns":16,
          "firstgid":577,
-         "image":"tilesets_deviant_milkian_2.png",
+         "image":"tiles\/tilesets_deviant_milkian_2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -988,7 +988,7 @@
         {
          "columns":16,
          "firstgid":833,
-         "image":"tilesets_deviant_milkian_4.png",
+         "image":"tiles\/tilesets_deviant_milkian_4.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1001,7 +1001,7 @@
         {
          "columns":1,
          "firstgid":1089,
-         "image":"exit_tile.png",
+         "image":"tiles\/exit_tile.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -1014,7 +1014,7 @@
         {
          "columns":8,
          "firstgid":1090,
-         "image":"fantasy.png",
+         "image":"tiles\/fantasy.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
