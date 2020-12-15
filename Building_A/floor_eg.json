@@ -121,7 +121,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/workadventure_map\/Building_A\/luk.json"
+                 "value":"..\/Building_A\/luk.json"
                 }],
          "type":"tilelayer",
          "visible":false,
