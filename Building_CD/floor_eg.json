@@ -49,7 +49,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/workadventure_map\/map.json#start_cdbuilding"
+                 "value":"..\/map.json#start_cdbuilding"
                 }],
          "type":"tilelayer",
          "visible":false,
