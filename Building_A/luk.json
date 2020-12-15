@@ -85,7 +85,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/workadventure_map\/Building_A\/floor_eg.json#start_luk"
+                 "value":"..\/Building_A\/floor_eg.json#start_luk"
                 }],
          "type":"tilelayer",
          "visible":false,
